@@ -1,4 +1,6 @@
 #Intermediate Python Exercise #3
+# Manny Campbell, Natalie Tepedino, Nathan Gray, Philip Vishnevsky
+
 #User enters a string and an empty dictionary is created.
 user_input = input('Please enter a string: ')
 new_dict = {}
